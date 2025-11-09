@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="RR Technosoft Institute - Learn Multi-Cloud and DevOps to Lead Anywhere!">
+  <meta name="description" content="Vivekananda Institute - Learn Multi-Cloud and DevOps to Lead Anywhere!">
 
   <title>RR Technosoft Institute - Multi-Cloud with DevOps</title>
   <style>
